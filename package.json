@@ -12,7 +12,7 @@
   "dependencies": {
     "@strapi/plugin-documentation": "4.0.6",
     "@strapi/plugin-i18n": "4.0.6",
-    "@strapi/plugin-users-permissions": "4.0.6",
+    "@strapi/plugin-users-permissions": "4.0.7",
     "@strapi/provider-email-nodemailer": "^4.0.7",
     "@strapi/strapi": "4.0.6",
     "@yanotoma/strapi-provider-email-sendinblue": "^1.1.0",
