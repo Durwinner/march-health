@@ -18,7 +18,7 @@
     "@yanotoma/strapi-provider-email-sendinblue": "^1.1.0",
     "install": "^0.13.0",
     "sqlite3": "5.0.2",
-    "strapi-plugin-documentation": "^3.6.8",
+    "strapi-plugin-documentation": "^3.6.9",
     "strapi-provider-email-nodemailer": "^3.6.8",
     "strapi-provider-email-sendinblue": "^4.0.0"
   },
