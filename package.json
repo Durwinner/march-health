@@ -12,12 +12,12 @@
   "dependencies": {
     "@strapi/plugin-documentation": "4.0.6",
     "@strapi/plugin-i18n": "4.0.6",
-    "@strapi/plugin-users-permissions": "4.0.6",
+    "@strapi/plugin-users-permissions": "4.5.6",
     "@strapi/provider-email-nodemailer": "^4.0.7",
-    "@strapi/strapi": "4.0.6",
+    "@strapi/strapi": "4.5.6",
     "@yanotoma/strapi-provider-email-sendinblue": "^1.1.0",
     "install": "^0.13.0",
-    "sqlite3": "5.0.2",
+    "sqlite3": "5.0.3",
     "strapi-plugin-documentation": "^3.6.8",
     "strapi-provider-email-nodemailer": "^3.6.8",
     "strapi-provider-email-sendinblue": "^4.0.0"
